@@ -7,3 +7,7 @@ This is a Frontend for a private Project. It uses https://github.com/j-toscani/r
 - Find all recipes in one place, no matter where they are
 - Be able to search those recipes by name/main ingredients
 - Organise cooking-books and magazines
+
+## The Project structure
+
+The structure of this project was taken from the following article: https://intellisense.dev/post/vite-vue3-typescript/
